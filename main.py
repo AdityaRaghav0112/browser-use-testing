@@ -1,3 +1,7 @@
+# This page contains similar structure as main2.py but it has a fallback logic 
+# The fallback logic contains the class names and ids of the website which is not ideal
+
+
 import asyncio
 import os
 import json

@@ -1,3 +1,8 @@
+# Browser-use navigates to the properties page and stops
+# LLM scrapes the mucnipal website automatically
+# It only works on page 1.
+
+
 import asyncio
 import os
 import json

@@ -1,3 +1,6 @@
+# This file makes the browser-use generate a javascript code which scrapes the website
+
+
 import asyncio
 import os
 from dotenv import load_dotenv

@@ -1,7 +1,8 @@
+# This page is not fully developed and it does not return a valid json, the mobile numbers are hidden
 import asyncio
 import os
 import json
-import re
+import re 
 from urllib.parse import urljoin
 from dotenv import load_dotenv
 
